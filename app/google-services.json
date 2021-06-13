@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093863960695",
+    "project_id": "workshopedia-8b1fa",
+    "storage_bucket": "workshopedia-8b1fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093863960695:android:8aa604f68ede96ecd5d672",
+        "android_client_info": {
+          "package_name": "com.acash.workshopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093863960695-utbofjfebr538vc65h0jr8uv0qb5ug6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acash.workshopedia",
+            "certificate_hash": "d86565e429bcc1b91372f8f99831d3805bb11fb2"
+          }
+        },
+        {
+          "client_id": "1093863960695-67k8apjt90vkmou750kr8lhp7da69ile.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBAwFUUwTN44UKCBWo39qkAYiciCD7IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093863960695-67k8apjt90vkmou750kr8lhp7da69ile.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
